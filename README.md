@@ -15,10 +15,20 @@ pre requiste for selenium framewok design:
 9. Utilities  for common interactions with Web elements in an app
 10. TestNG - Annotation,testng.xml,DataProvider,TestNGListners.
 11. Maven Framework
-12.Log4j- for logging- manual and application logs.
-13.Drivers/webDriverManager
-14.SeleniumGrid.
-15.BaseClass
+12. Log4j- for logging- manual and application logs.
+13. Drivers/webDriverManager
+14. SeleniumGrid.
+15. BaseClass
+16. Contains Src and report files
+
+ Basic Requirements:
+
+ a.JDK8 installed
+ b.Browser : Chrome ./gradlew clean test -Dbrowser=chrome
+ ==============
+ Screenshots:
+ Screenshots are stored in reports frame as screenshots for framework
+ 
 
 #selenium
 #java
