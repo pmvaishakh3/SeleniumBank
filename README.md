@@ -27,7 +27,7 @@ pre requiste for selenium framewok design:
  b.Browser : Chrome ./gradlew clean test -Dbrowser=chrome
  ==============
  Screenshots:
- Screenshots are stored in reports frame as screenshots for framework
+ Screenshots are stored in reports frame as screenshot for framework
 
  Java - "1.8.0_361"
  
