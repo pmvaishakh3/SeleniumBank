@@ -28,10 +28,9 @@ pre requiste for selenium framewok design:
  ==============
  Screenshots:
  Screenshots are stored in reports frame as screenshots for framework
- 
 
-#selenium
-#java
+ Java - "1.8.0_361"
+ 
 
  
  
